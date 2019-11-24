@@ -1,11 +1,14 @@
 # Resources List
 ## Tools
-### Visual Studio Code
-#### [Official Website](https://code.visualstudio.com/)
-### Eclipse
-#### [Official Website](https://www.eclipse.org/)
-### IntelliJ IDEA
-#### [Official Website](https://www.jetbrains.com/idea/)
+### Editor
+#### Visual Studio Code
+##### [Official Website](https://code.visualstudio.com/)
+#### Eclipse
+##### [Official Website](https://www.eclipse.org/)
+#### IntelliJ IDEA
+##### [Official Website](https://www.jetbrains.com/idea/)
+### CI/CD
+### Code Quality
 ## Programming Languages
 ### Java SE
 #### [Official Website](https://www.oracle.com/technetwork/java/javase/overview/index.html)
@@ -22,3 +25,5 @@
 #### [Official Website](https://www.microsoft.com/en-gb/sql-server/)
 ### MongoDB
 #### [Official Website](https://www.mongodb.com/)
+#### [MongoDB Atlas Cloud](https://www.mongodb.com/cloud/atlas)
+#### [MongoDB Stitch Serverless](https://www.mongodb.com/cloud/stitch)
